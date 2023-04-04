@@ -1,0 +1,39 @@
+/* for heading text */
+.heading {
+    background-color: #ccc;
+}
+
+/* colour for navigation */
+.navigation {
+    background-color: #333;
+}
+
+/* hover with colour */
+li:hover {
+    background-color: #008c22
+}
+
+/* main section */
+.main {
+    padding: 2%;
+}
+
+/* aside section heading colour */
+.aside {
+    background-color: #e0e0e0;
+}
+
+/* footer section colour */
+.footer {
+    background-color: #ccc;
+}
+
+/* colour for main heading */
+.heading_main {
+    color: #003c67;
+}
+
+/* colour for aside heading */
+.text_info {
+    color: #377ea1;
+}
